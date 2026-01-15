@@ -50,7 +50,7 @@ sudo apt install ffmpeg
 
 ```bash
 # 从百炼控制台获取 API Key
-# https://bailian.console.aliyun.com/#/api-key
+# https://bailian.console.aliyun.com/?source_channel=github#/api-key
 
 export DASHSCOPE_API_KEY="sk-your-api-key"
 ```
@@ -188,9 +188,9 @@ python claude_code_intro.py
 
 ## 🔗 相关链接
 
-- [阿里云百炼控制台](https://bailian.console.aliyun.com)
-- [通义千问TTS文档](https://help.aliyun.com/zh/model-studio/developer-reference/cosyvoice-tts)
-- [获取 API Key](https://bailian.console.aliyun.com/#/api-key)
+- [阿里云百炼控制台](https://bailian.console.aliyun.com/?source_channel=github)
+- [通义千问TTS文档](https://help.aliyun.com/zh/model-studio/developer-reference/cosyvoice-tts?source_channel=github)
+- [获取 API Key](https://bailian.console.aliyun.com/?source_channel=github#/api-key)
 
 ## 📄 License
 

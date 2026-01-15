@@ -56,7 +56,7 @@ class PodcastGenerator:
         if not self.api_key:
             raise ValueError(
                 "请设置 DASHSCOPE_API_KEY 环境变量或传入 api_key 参数\n"
-                "获取 API Key: https://bailian.console.aliyun.com/#/api-key"
+                "获取 API Key: https://bailian.console.aliyun.com/?source_channel=github#/api-key"
             )
         
         # 检查 ffmpeg

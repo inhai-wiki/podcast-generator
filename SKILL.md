@@ -25,7 +25,7 @@ description: 使用阿里云百炼通义千问TTS生成男女对谈播客音频�
 
 ```bash
 # 访问百炼控制台获取 API Key
-# https://bailian.console.aliyun.com/#/api-key
+# https://bailian.console.aliyun.com/?source_channel=github#/api-key
 
 # 配置环境变量
 export DASHSCOPE_API_KEY="sk-your-api-key"
@@ -122,6 +122,6 @@ podcast-generator/
 
 ## 相关链接
 
-- [百炼控制台](https://bailian.console.aliyun.com)
-- [通义千问TTS文档](https://help.aliyun.com/zh/model-studio/developer-reference/cosyvoice-tts)
+- [百炼控制台](https://bailian.console.aliyun.com/?source_channel=github)
+- [通义千问TTS文档](https://help.aliyun.com/zh/model-studio/developer-reference/cosyvoice-tts?source_channel=github)
 
